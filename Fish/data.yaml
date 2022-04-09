@@ -1,0 +1,5 @@
+train: "D:\\dev\\p\\yolo\\Yolov5_DeepSort_Pytorch\\yolov5\\Fish\\train\\images"
+val: "D:\\dev\\p\\yolo\\Yolov5_DeepSort_Pytorch\\yolov5\\Fish\\valid\\images"
+
+nc: 26
+names: ['Acanthuridae -Surgeonfishes-', 'Balistidae -Triggerfishes-', 'Carangidae -Jacks-', 'Ephippidae -Spadefishes-', 'Labridae -Wrasse-', 'Lutjanidae -Snappers-', 'Pomacanthidae -Angelfishes-', 'Pomacentridae -Damselfishes-', 'Scaridae -Parrotfishes-', 'Scombridae -Tunas-', 'Serranidae -Groupers-', 'Shark -Selachimorpha-', 'Zanclidae (Moorish Idol)', 'Zanclidae -Moorish Idol-', 'angel', 'damsel', 'grouper', 'jack', 'parrot', 'shark', 'snapper', 'spade', 'surgeon', 'trigger', 'tuna', 'wrasse']
